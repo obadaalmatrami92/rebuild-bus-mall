@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: radial-gradient( gold, #660303) fixed;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    color: whitesmoke;
+    transition: 0.8s;
+}
+
+section div {
+    float: left;
+    padding: 30px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+    color: rgb(102, 24, 0);
+}
+
+section div img {
+    max-width: 100%;
+    height: 300px;
+    border: 10px solid rgb(202, 18, 5);
+    border-radius: 5%;
+}
+
+#information {
+    display: block;
+    margin-top: 420px;
+    font-size: 29px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+.first {
+    float: left;
+    margin-left: 50px;
+}
+
+.second {
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.third {
+    margin-left: 500px;
+    margin: 0px auto;
+}
+
+div img {
+    width: 250px;
+    height: 250px;
+}
+
+div h2 {
+    color: whitesmoke;
+}
+
+footer {
+    font-size: 3.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
